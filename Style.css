@@ -1,0 +1,110 @@
+
+body{
+  background-color: grey;}
+
+header{
+  background-color:yellow;
+  padding: 5px;
+  margin: 5px 0px 10px 50px;
+  min-height:100px;}
+
+footer{
+    background-color: #FA8DCD;
+    padding: 5px;
+    margin: 10px 0px 0px 50px;}
+
+div{
+  margin-left: 50px;
+  Background-color: blue;
+  color: white;
+  width: 50%;
+  min-height: 300px;
+  padding: 5px;}
+
+p{
+  width:500px;
+  margin-left: 50px;
+}
+
+img{
+  width:25%;
+  float: right;
+  margin: 0px 30px 30px 30px;
+  border-radius: 5px;
+  border: 2px solid white;
+  padding: 5px;}
+
+h1,h2{
+  color: purple;
+  margin-left:50px;}
+
+a{
+  Background-color:lightgreen;
+  text-decoration: none;
+  color: black;
+  border-radius: 1px;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  padding: 5px 5px 5px 5px;
+  margin-left: 50px;}
+
+
+a:hover{
+  Background-color:lightgreen;
+  text-decoration: none;
+  color: white;
+  border-radius: 1px;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  padding: 5px 5px 5px 5px;
+  margin-left: 50px;}
+
+  li{
+    Display: inline;
+    width: 100px;
+    height: 50px;
+    background-color: inherit;
+    margin-left: 50px;}
+
+td,th,table{
+  background-color: white;
+  color: purple;
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+  width: 600px;
+  padding: 5px;
+  margin:auto black;
+}
+
+.kolom1{
+  width: 400px;
+  background-color: lightgreen;}
+
+table{
+    margin-left: 50px;}
+
+button{
+  background-color: lightGreen;
+  color: white;
+  box-shadow: inset 2px 2px 5px green;
+  border-radius: 18px;
+  border-style: solid black;
+  margin-left: 500px;}
+
+button:active{
+  background-color: lightblue;
+  color: black;
+  box-shadow: inset 2px 2px 5px green;
+  border-radius: 18px;}
+
+input[text], input[email], textarea, select{
+  display: block;
+  padding: 5px 5px 5px 5px;
+  margin: 10px 0px 0px 50px;}
+
+textarea{
+  width: 300px;
+  height: 100px;}
